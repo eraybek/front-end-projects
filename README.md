@@ -24,7 +24,7 @@
 <!-- Project Sections -->
 <h3 id="CatPhotoApp">CatPhotoApp</h3>
     <p>
-    A simple and interactive cat-themed site.
+    A simple and interactive cat-themed site developed by <b>HTML</b>.
     </p>
     <p><a href="https://github.com/eraybek/front-end-projects" rel="nofollow">Online Demo (Github.io Link)</a></p>
     <p><strong>Special topics covered:</strong></p>
