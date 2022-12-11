@@ -22,6 +22,7 @@
 </ol>
 
 <!-- Project Sections -->
+<section>
 <h3 id="CatPhotoApp">CatPhotoApp</h3>
     <p>A simple and interactive cat-themed site developed by <b>HTML</b>.</p>
     <p><a href="https://eraybek.github.io/front-end-projects" rel="nofollow">Online Demo (Github.io Link)</a></p>
@@ -53,5 +54,6 @@
         Button
     </li>
 </ul>
+</section>
 <br>
 
