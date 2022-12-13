@@ -19,13 +19,17 @@
     <li>
     <a href="#CatPhotoApp"><i>CatPhotoApp</i></a>
     </li>
+        <li>
+    <a href="#CafeMenu"><i>CafeMenu</i></a>
+    </li>
 </ol>
+<hr>
 
 <!-- Project Sections -->
 <section>
 <h3 id="CatPhotoApp">CatPhotoApp</h3>
-    <p>A simple and interactive cat-themed site developed by <b>HTML</b>.</p>
-    <p><a href="https://eraybek.github.io/front-end-projects" rel="nofollow">Online Demo (Github.io Link)</a></p>
+    <p>A simple and interactive cat-themed site developed with <b>HTML</b>.</p>
+    <p><a href="https://eraybek.github.io/front-end-projects" rel="nofollow">Online Demo (Not Updated)</a></p>
     <p><strong>Special topics covered:</strong></p>
 <ul>
 <!-- Special topics -->
@@ -53,6 +57,35 @@
     <li>
         Button
     </li>
+</ul>
+</section>
+<hr>
+<section>
+<h3 id="CafeMenu">CafeMenu</h3>
+    <p>A simple cafe menu site developed with <b>HTML and CSS</b>.</p>
+    <p><a href="https://eraybek.github.io/front-end-projects" rel="nofollow">Online Demo (Not Updated)</a></p>
+    <p><strong>Special topics covered:</strong></p>
+<ul>
+<!-- Special topics -->
+    <li>
+        Margin
+    </li>
+    <li>
+        Padding
+    </li>
+    <li>
+        Text-align
+    </li>
+    <li>
+        Border
+    </li>
+    <li>
+        Display
+    </li>
+    <li>
+        Width / Height
+    </li>
+    
 </ul>
 </section>
 <br>
