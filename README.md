@@ -1,6 +1,6 @@
-<h2>Front-End Projects with Javascript, CSS, and HTML</h2>
+<h2>Front-End Projects with HTML, CSS and Javascript</h2>
 
-<p>Collection of front-end projects developed by JS, HTML, and CSS.</p>
+<p>Collection of front-end projects developed by HTML, CSS and JS.</p>
 
 <strong>Notes:</strong>
 <ul>
