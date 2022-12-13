@@ -29,7 +29,7 @@
 <section>
 <h3 id="CatPhotoApp">CatPhotoApp</h3>
     <p>A simple and interactive cat-themed site developed with <b>HTML</b>.</p>
-    <p><a href="https://eraybek.github.io/front-end-projects" rel="nofollow">Online Demo (Not Updated)</a></p>
+    <p><a href="01-CatPhotoApp/index.html" rel="nofollow">Online Demo</a></p>
     <p><strong>Special topics covered:</strong></p>
 <ul>
 <!-- Special topics -->
@@ -63,7 +63,7 @@
 <section>
 <h3 id="CafeMenu">CafeMenu</h3>
     <p>A simple cafe menu site developed with <b>HTML and CSS</b>.</p>
-    <p><a href="https://eraybek.github.io/front-end-projects" rel="nofollow">Online Demo (Not Updated)</a></p>
+    <p><a href="02-CafeMenu/index.html" rel="nofollow">Online Demo</a></p>
     <p><strong>Special topics covered:</strong></p>
 <ul>
 <!-- Special topics -->
