@@ -1,0 +1,60 @@
+body {
+    margin:0; /* Soldaki bosluklar kalkti. */
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    height: 100vh;
+    justify-content: center; /* Height verdikten sonra, her sey sayfanin merkezine alindi. */
+    background: url("https://images.unsplash.com/photo-1426604966848-d7adac402bff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+h2{
+    text-transform: uppercase; /* DIGITAL CLOCK*/
+    letter-spacing: 4px; /* Harfler arasina 4 pixel bosluk koyuldu. */
+    font-size: 14px;
+    text-align: center;
+    color: white;
+}
+
+.clock{
+    display: flex; /* Elemanlarin yanyana gelmesi saglandi*/
+}
+
+.clock div{
+    margin: 5px;
+    position: relative; /* AM/PM kutusunu bottom'a cekmek icin bulundugu div relative yapildi.*/
+}
+
+.clock span{
+    width: 100px;
+    height: 80px;
+    background-color:brown;
+    opacity: .8;
+    color: white;
+    display: flex;
+    justify-content: center; /* Flex span kutularini bulunduklari satirin ortasina aliyor.*/
+    align-items: center; /* Flex span kutularini bulunduklari flex containerin merkezine aliyor.*/
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Siyah bir golgeleme verildi.*/
+}
+
+.clock .text {
+    height: 30px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: cornflowerblue;
+    opacity: 0.8;
+}
+
+.clock #ampm {
+    position: absolute;
+    bottom: 0;
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+    background-color: blue;
+}
