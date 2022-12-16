@@ -328,7 +328,7 @@
 <hr>
 <!-- 7 -->
 <section>
-    <h3 id="#StickyNavbar">Sticky Navbar</h3>
+    <h3 id="StickyNavbar">Sticky Navbar</h3>
         <p>#</p>
         <p><a href="07-StickyNavbar/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
@@ -338,7 +338,7 @@
 <hr>
 <!-- 8 -->
 <section>
-    <h3 id="#RandomColorGenerator">Random Color Generator</h3>
+    <h3 id="RandomColorGenerator">Random Color Generator</h3>
         <p>#</p>
         <p><a href="08-RandomColorGenerator/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
@@ -348,7 +348,7 @@
 <hr>
 <!-- 9 -->
 <section>
-    <h3 id="#TrailAnimation">Heart Trail Animation</h3>
+    <h3 id="TrailAnimation">Heart Trail Animation</h3>
         <p>#</p>
         <p><a href="09-TrailAnimation/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
@@ -358,7 +358,7 @@
 <hr>
 <!-- 10 -->
 <section>
-    <h3 id="#TrailerPopup">Video Trailer Popup</h3>
+    <h3 id="TrailerPopup">Video Trailer Popup</h3>
         <p>#</p>
         <p><a href="10-VideoTrailerPopup/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
@@ -368,7 +368,7 @@
 <hr>
 <!-- 11 -->
 <section>
-    <h3 id="#BlurredPopup">Blurred Background Popup</h3>
+    <h3 id="BlurredPopup">Blurred Background Popup</h3>
         <p>#</p>
         <p><a href="11-BlurredBackgroundPopup/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
