@@ -49,6 +49,19 @@
     <li>
     <a href="#BlurredPopup"><i>Blurred Background Popup</i></a>
     </li>
+    <li>
+    <a href="#ImageScrollEffect"><i>Image Scroll Effect</i></a>
+    </li>
+    <li>
+    <a href="#DrumKits"><i>Drum Kits</i></a>
+    </li>
+    <li>
+    <a href="#SeatReservation"><i>Seat Reservation</i></a>
+    </li>
+    <li>
+    <a href="#RandomPhotos"><i>Random Photos</i></a>
+    </li>
+    
 </ol>
 <hr>
 
@@ -371,6 +384,46 @@
     <h3 id="BlurredPopup">Blurred Background Popup</h3>
         <p>#</p>
         <p><a href="11-BlurredBackgroundPopup/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
+<!-- 12 -->
+<section>
+    <h3 id="ImageScrollEffect">Image Scroll Effect</h3>
+        <p>#</p>
+        <p><a href="12-ImageScrollEffect/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
+<!-- 13 -->
+<section>
+    <h3 id="DrumKits">Drum Kits</h3>
+        <p>#</p>
+        <p><a href="13-DrumKits/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
+<!-- 14 -->
+<section>
+    <h3 id="SeatReservation">Seat Reservation</h3>
+        <p>#</p>
+        <p><a href="14-SeatReservation/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
+<!-- 15 -->
+<section>
+    <h3 id="RandomPhotos">Random Photos</h3>
+        <p>#</p>
+        <p><a href="15-RandomPhotos/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
