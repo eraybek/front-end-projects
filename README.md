@@ -61,6 +61,12 @@
     <li>
     <a href="#RandomPhotos"><i>Random Photos</i></a>
     </li>
+    <li>
+    <a href="#ImageSlider"><i>Image Slider</i></a>
+    </li>
+    <li>
+    <a href="#DarkModeToggle"><i>Dark Mode Toggle</i></a>
+    </li>
     
 </ol>
 <hr>
@@ -70,7 +76,7 @@
 <section>
     <h3 id="CatPhotoApp">Cat Photo App</h3>
         <p>A simple and interactive cat-themed site developed with <b>HTML</b>.</p>
-        <p><a href="01-CatPhotoApp/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/01-CatPhotoApp/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     <ul>
@@ -106,7 +112,7 @@
 <section>
     <h3 id="CafeMenu">Cafe Menu</h3>
         <p>A simple cafe menu site developed with <b>HTML </b>and <b>CSS</b>.</p>
-        <p><a href="02-CafeMenu/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/02-CafeMenu/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     <ul>
@@ -136,7 +142,7 @@
 <section>
     <h3 id="DigitalClock">Digital Clock</h3>
         <p>A digital clock site developed with <b>HTML, CSS </b>and <b>Javascript</b>.</p>
-        <p><a href="03-DigitalClock/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/03-DigitalClock/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     <ul>
@@ -190,7 +196,7 @@
 <section>
     <h3 id="MultiplicationApp">Multiplication App</h3>
         <p>A site for kids that calculates the product of two numbers, developed with <b>HTML, CSS </b>and <b>Javascript</b>.</p>
-        <p><a href="04-MultiplicationApp/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/04-MultiplicationApp/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     <ul>
@@ -253,7 +259,7 @@
 <section>
     <h3 id="ButtonRippleEffect">Button Ripple Effect</h3>
         <p>A ripple effect design on hover for buttons, developed with <b>HTML, CSS </b>and <b>Javascript</b>.</p>
-        <p><a href="05-ButtonRippleEffect/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/05-ButtonRippleEffect/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     <ul>
@@ -304,7 +310,7 @@
 <section>
     <h3 id="CharacterCounter">Real-time Character Counter</h3>
         <p>A limited-character text area developed with <b>HTML, CSS </b>and <b>Javascript</b>.</p>
-        <p><a href="06-CharacterCounter/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/06-CharacterCounter/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     <ul>
@@ -343,7 +349,7 @@
 <section>
     <h3 id="StickyNavbar">Sticky Navbar</h3>
         <p>#</p>
-        <p><a href="07-StickyNavbar/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/07-StickyNavbar/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
@@ -353,7 +359,7 @@
 <section>
     <h3 id="RandomColorGenerator">Random Color Generator</h3>
         <p>#</p>
-        <p><a href="08-RandomColorGenerator/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/08-RandomColorGenerator/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
@@ -363,7 +369,7 @@
 <section>
     <h3 id="TrailAnimation">Heart Trail Animation</h3>
         <p>#</p>
-        <p><a href="09-TrailAnimation/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/09-TrailAnimation/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
@@ -373,7 +379,7 @@
 <section>
     <h3 id="TrailerPopup">Video Trailer Popup</h3>
         <p>#</p>
-        <p><a href="10-VideoTrailerPopup/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/10-VideoTrailerPopup/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
@@ -383,7 +389,7 @@
 <section>
     <h3 id="BlurredPopup">Blurred Background Popup</h3>
         <p>#</p>
-        <p><a href="11-BlurredBackgroundPopup/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/11-BlurredBackgroundPopup/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
@@ -393,7 +399,7 @@
 <section>
     <h3 id="ImageScrollEffect">Image Scroll Effect</h3>
         <p>#</p>
-        <p><a href="12-ImageScrollEffect/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/12-ImageScrollEffect/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
@@ -403,7 +409,7 @@
 <section>
     <h3 id="DrumKits">Drum Kits</h3>
         <p>#</p>
-        <p><a href="13-DrumKits/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/13-DrumKits/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
@@ -413,7 +419,7 @@
 <section>
     <h3 id="SeatReservation">Seat Reservation</h3>
         <p>#</p>
-        <p><a href="14-SeatReservation/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/14-SeatReservation/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
@@ -423,7 +429,7 @@
 <section>
     <h3 id="RandomPhotos">Random Photos</h3>
         <p>#</p>
-        <p><a href="15-RandomPhotos/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/15-RandomPhotos/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
@@ -433,7 +439,7 @@
 <section>
     <h3 id="ImageSlider">Image Slider</h3>
         <p>#</p>
-        <p><a href="16-ImageSlider/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/16-ImageSlider/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
@@ -443,7 +449,7 @@
 <section>
     <h3 id="DarkModeToggle">Dark Mode Toggle</h3>
         <p>#</p>
-        <p><a href="17-DarkModeToggle/index.html" rel="nofollow">Online Demo</a></p>
+        <p><a href="https://eraybek.github.io/front-end-projects/17-DarkModeToggle/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
