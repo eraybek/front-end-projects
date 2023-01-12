@@ -429,3 +429,13 @@
     #
 </section>
 <hr>
+<!-- 16 -->
+<section>
+    <h3 id="ImageSlider">Image Slider</h3>
+        <p>#</p>
+        <p><a href="16-ImageSlider/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
