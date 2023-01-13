@@ -67,7 +67,13 @@
     <li>
     <a href="#DarkModeToggle"><i>Dark Mode Toggle</i></a>
     </li>
-    
+    <li>
+    <a href="#AutoTextAnimation"><i>Auto Text Effect Animation</i></a>
+    </li>
+    <li>
+    <a href="#TabsSection"><i>Tabs Section</i></a>
+    </li>
+
 </ol>
 <hr>
 
@@ -450,6 +456,26 @@
     <h3 id="DarkModeToggle">Dark Mode Toggle</h3>
         <p>#</p>
         <p><a href="https://eraybek.github.io/front-end-projects/17-DarkModeToggle/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
+<!-- 18 -->
+<section>
+    <h3 id="AutoTextAnimation">Auto Text Effect Animation</h3>
+        <p>#</p>
+        <p><a href="https://eraybek.github.io/front-end-projects/18-AutoTextAnimation/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
+<!-- 19 -->
+<section>
+    <h3 id="TabsSection">Tabs Section</h3>
+        <p>#</p>
+        <p><a href="https://eraybek.github.io/front-end-projects/19-TabsSection/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
