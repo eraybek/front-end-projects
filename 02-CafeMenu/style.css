@@ -29,7 +29,7 @@ p{
 
 body{
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     padding:20px;
     text-align: center;
 }
