@@ -28,6 +28,7 @@ Users should be able to:
 
 <p align="center">
 <img src="./design/my-project-desktop-design.PNG">
+<br><br><br>
 <img src="./design/my-project-mobile-design.PNG">
 </p>
 
