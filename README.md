@@ -3,6 +3,7 @@
 <p>Collection of front-end projects developed by HTML, CSS and JS.</p>
 
 <strong>Notes:</strong>
+
 <ul>
     <!-- Notes for collection -->
     <li>
@@ -72,6 +73,9 @@
     </li>
     <li>
     <a href="#TabsSection"><i>Tabs Section</i></a>
+    </li>
+    <li>
+    <a href="#ResultSummary"><i>Result Summary Component</i></a>
     </li>
 
 </ol>
@@ -476,6 +480,16 @@
     <h3 id="TabsSection">Tabs Section</h3>
         <p>#</p>
         <p><a href="https://eraybek.github.io/front-end-projects/19-TabsSection/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
+<!-- 20 -->
+<section>
+    <h3 id="ResultSummary">Result Summary Component</h3>
+        <p>#</p>
+        <p><a href="https://eraybek.github.io/front-end-projects/20-ResultSummaryComponent/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
