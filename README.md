@@ -18,67 +18,70 @@
 <ol>
     <!-- Project names -->
     <li>
-    <a href="#CatPhotoApp"><i>Cat Photo App</i></a>
+        <a href="#CatPhotoApp"><i>Cat Photo App</i></a>
     </li>
     <li>
-    <a href="#CafeMenu"><i>Cafe Menu</i></a>
+        <a href="#CafeMenu"><i>Cafe Menu</i></a>
     </li>
     <li>
-    <a href="#DigitalClock"><i>Digital Clock</i></a>
+        <a href="#DigitalClock"><i>Digital Clock</i></a>
     </li>
     <li>
-    <a href="#MultiplicationApp"><i>Multiplication App</i></a>
+        <a href="#MultiplicationApp"><i>Multiplication App</i></a>
     </li>
     <li>
-    <a href="#ButtonRippleEffect"><i>Button Ripple Effect</i></a>
+        <a href="#ButtonRippleEffect"><i>Button Ripple Effect</i></a>
     </li>
     <li>
-    <a href="#CharacterCounter"><i>Real-time Character Counter</i></a>
+        <a href="#CharacterCounter"><i>Real-time Character Counter</i></a>
     </li>
     <li>
-    <a href="#StickyNavbar"><i>Sticky Navbar</i></a>
+        <a href="#StickyNavbar"><i>Sticky Navbar</i></a>
     </li>
     <li>
-    <a href="#RandomColorGenerator"><i>Random Color Generator</i></a>
+        <a href="#RandomColorGenerator"><i>Random Color Generator</i></a>
     </li>
     <li>
-    <a href="#TrailAnimation"><i>Heart Trail Animation</i></a>
+        <a href="#TrailAnimation"><i>Heart Trail Animation</i></a>
     </li>
     <li>
-    <a href="#TrailerPopup"><i>Video Trailer Popup</i></a>
+        <a href="#TrailerPopup"><i>Video Trailer Popup</i></a>
     </li>
     <li>
-    <a href="#BlurredPopup"><i>Blurred Background Popup</i></a>
+        <a href="#BlurredPopup"><i>Blurred Background Popup</i></a>
     </li>
     <li>
-    <a href="#ImageScrollEffect"><i>Image Scroll Effect</i></a>
+        <a href="#ImageScrollEffect"><i>Image Scroll Effect</i></a>
     </li>
     <li>
-    <a href="#DrumKits"><i>Drum Kits</i></a>
+        <a href="#DrumKits"><i>Drum Kits</i></a>
     </li>
     <li>
-    <a href="#SeatReservation"><i>Seat Reservation</i></a>
+        <a href="#SeatReservation"><i>Seat Reservation</i></a>
     </li>
     <li>
-    <a href="#RandomPhotos"><i>Random Photos</i></a>
+        <a href="#RandomPhotos"><i>Random Photos</i></a>
     </li>
     <li>
-    <a href="#ImageSlider"><i>Image Slider</i></a>
+        <a href="#ImageSlider"><i>Image Slider</i></a>
     </li>
     <li>
-    <a href="#DarkModeToggle"><i>Dark Mode Toggle</i></a>
+        <a href="#DarkModeToggle"><i>Dark Mode Toggle</i></a>
     </li>
     <li>
-    <a href="#AutoTextAnimation"><i>Auto Text Effect Animation</i></a>
+        <a href="#AutoTextAnimation"><i>Auto Text Effect Animation</i></a>
     </li>
     <li>
-    <a href="#TabsSection"><i>Tabs Section</i></a>
+        <a href="#TabsSection"><i>Tabs Section</i></a>
     </li>
     <li>
-    <a href="#ResultSummary"><i>Result Summary Component</i></a>
+        <a href="#ResultSummary"><i>Result Summary Component</i></a>
     </li>
     <li>
-    <a href="#HoverboardApp"><i>Hoverboard App</i></a>
+        <a href="#HoverboardApp"><i>Hoverboard App</i></a>
+    </li>
+    <li>
+        <a href="#UserFilterApp"><i>User Filter App</i></a>
     </li>
 </ol>
 <hr>
@@ -502,6 +505,16 @@
     <h3 id="HoverboardApp">Hoverboard App</h3>
         <p>#</p>
         <p><a href="https://eraybek.github.io/front-end-projects/21-HoverboardApp/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
+<!-- 22 -->
+<section>
+    <h3 id="UserFilterApp">User Filter App</h3>
+        <p>#</p>
+        <p><a href="https://eraybek.github.io/front-end-projects/22-UserFilterApp/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
