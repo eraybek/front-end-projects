@@ -77,7 +77,9 @@
     <li>
     <a href="#ResultSummary"><i>Result Summary Component</i></a>
     </li>
-
+    <li>
+    <a href="#HoverboardApp"><i>Hoverboard App</i></a>
+    </li>
 </ol>
 <hr>
 
@@ -490,6 +492,16 @@
     <h3 id="ResultSummary">Result Summary Component</h3>
         <p>#</p>
         <p><a href="https://eraybek.github.io/front-end-projects/20-ResultSummaryComponent/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
+<!-- 21 -->
+<section>
+    <h3 id="HoverboardApp">Hoverboard App</h3>
+        <p>#</p>
+        <p><a href="https://eraybek.github.io/front-end-projects/21-HoverboardApp/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
