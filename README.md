@@ -83,6 +83,13 @@
     <li>
         <a href="#UserFilterApp"><i>User Filter App</i></a>
     </li>
+    <li>
+        <a href="#QuizApp"><i>Quiz App</i></a>
+    </li>
+    <li>
+        <a href="#TodoList"><i>Todo List</i></a>
+    </li>
+    
 </ol>
 <hr>
 
@@ -515,6 +522,26 @@
     <h3 id="UserFilterApp">User Filter App</h3>
         <p>#</p>
         <p><a href="https://eraybek.github.io/front-end-projects/22-UserFilterApp/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
+<!-- 23 -->
+<section>
+    <h3 id="QuizApp">Quiz App</h3>
+        <p>#</p>
+        <p><a href="https://eraybek.github.io/front-end-projects/23-QuizApp/index.html" rel="nofollow">Online Demo</a></p>
+        <p><strong>Special topics covered:</strong></p>
+    <!-- Special topics -->
+    #
+</section>
+<hr>
+<!-- 24 -->
+<section>
+    <h3 id="TodoList">Todo List</h3>
+        <p>#</p>
+        <p><a href="https://eraybek.github.io/front-end-projects/24-TodoList/index.html" rel="nofollow">Online Demo</a></p>
         <p><strong>Special topics covered:</strong></p>
     <!-- Special topics -->
     #
